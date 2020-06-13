@@ -1,6 +1,6 @@
 {
   "name": "@saltcorn/blog-bootstrap-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "layout plugin for blogs",
   "main": "index.js",
   "scripts": {
